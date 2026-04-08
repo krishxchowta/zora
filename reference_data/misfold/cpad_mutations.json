@@ -1,0 +1,46 @@
+[
+  {
+    "gene_symbol": "TTR",
+    "protein_name": "TTR",
+    "uniprot_id": "P02766",
+    "variant_hgvs": "p.Val142Ile",
+    "disease_label": "Transthyretin Amyloidosis",
+    "aggregation_increase_pct": 68.0,
+    "variant_delta_score": 0.84,
+    "source": "CPAD",
+    "evidence_level": "experimental"
+  },
+  {
+    "gene_symbol": "TTR",
+    "protein_name": "TTR",
+    "uniprot_id": "P02766",
+    "variant_hgvs": "p.Thr80Ala",
+    "disease_label": "Transthyretin Amyloidosis",
+    "aggregation_increase_pct": 54.0,
+    "variant_delta_score": 0.79,
+    "source": "CPAD",
+    "evidence_level": "experimental"
+  },
+  {
+    "gene_symbol": "SERPINA1",
+    "protein_name": "SERPINA1",
+    "uniprot_id": "P01009",
+    "variant_hgvs": "p.Glu366Lys",
+    "disease_label": "Alpha-1 Antitrypsin Deficiency",
+    "aggregation_increase_pct": 44.0,
+    "variant_delta_score": 0.63,
+    "source": "CPAD",
+    "evidence_level": "experimental"
+  },
+  {
+    "gene_symbol": "TP53",
+    "protein_name": "TP53",
+    "uniprot_id": "P04637",
+    "variant_hgvs": "p.R248Q",
+    "disease_label": "Cancer Proteostasis",
+    "aggregation_increase_pct": 49.0,
+    "variant_delta_score": 0.71,
+    "source": "CPAD",
+    "evidence_level": "experimental"
+  }
+]

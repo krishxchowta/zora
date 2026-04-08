@@ -1,0 +1,43 @@
+patient_id,age,gender,admission_date,discharge_date,diagnosis,department,num_prior_admissions,blood_pressure_systolic,blood_pressure_diastolic,glucose_level,bmi,cholesterol,smoker,insurance_type,length_of_stay_days,num_medications,readmission_30day
+P001,67,Male,2024-01-03,2024-01-08,Heart Failure,Cardiology,3,145,92,118,28.4,210,Yes,Medicare,5,8,1
+P002,45,Female,2024-01-05,2024-01-07,Pneumonia,Pulmonology,0,120,78,95,22.1,185,No,Private,2,4,0
+P003,72,Male,2024-01-06,2024-01-14,COPD,Pulmonology,5,138,88,105,26.7,230,Yes,Medicare,8,11,1
+P004,58,Female,2024-01-07,2024-01-10,Diabetes Type 2,Endocrinology,2,132,84,210,31.2,245,No,Medicaid,3,6,0
+P005,81,Male,2024-01-08,2024-01-20,Hip Fracture,Orthopedics,1,118,74,98,24.0,,No,Medicare,12,5,1
+P006,34,Female,2024-01-09,2024-01-10,Appendicitis,Surgery,0,115,72,90,20.5,170,No,Private,1,3,0
+P007,63,Male,2024-01-10,2024-01-16,Heart Failure,Cardiology,4,152,96,125,29.8,255,Yes,Medicare,6,9,1
+P008,49,Female,2024-01-11,2024-01-13,UTI,Urology,1,124,80,88,23.7,195,No,Private,2,3,0
+P009,76,Male,2024-01-12,2024-01-19,Stroke,Neurology,2,160,98,115,27.3,240,Yes,Medicare,7,10,1
+P010,55,Female,2024-01-13,2024-01-15,Hypertension,Cardiology,1,148,94,102,30.1,220,No,Medicaid,2,5,0
+P011,68,Male,2024-01-14,2024-01-21,COPD,Pulmonology,6,142,90,108,25.9,235,Yes,Medicare,7,12,1
+P012,41,Female,2024-01-15,2024-01-17,Kidney Stones,Urology,0,118,76,92,21.8,180,No,Private,2,2,0
+P013,79,Male,2024-01-16,2024-01-25,Heart Failure,Cardiology,5,158,100,130,32.4,260,Yes,Medicare,9,13,1
+P014,52,Female,2024-01-17,2024-01-19,Pneumonia,Pulmonology,1,128,82,97,24.5,200,No,Medicaid,2,4,0
+P015,60,Male,2024-01-18,2024-01-22,Diabetes Type 2,Endocrinology,3,136,86,195,33.1,250,Yes,Medicare,4,7,1
+P016,38,Female,2024-01-19,2024-01-20,Asthma,Pulmonology,0,112,70,85,19.8,165,No,Private,1,2,0
+P017,74,Male,2024-01-20,2024-01-28,Stroke,Neurology,3,162,102,120,28.1,245,Yes,Medicare,8,11,1
+P018,47,Female,2024-01-21,2024-01-23,Gallstones,Surgery,0,122,78,94,26.3,190,No,Private,2,3,0
+P019,83,Male,2024-01-22,2024-02-01,Hip Fracture,Orthopedics,2,116,72,100,22.9,,No,Medicare,10,6,1
+P020,56,Female,2024-01-23,2024-01-26,Hypertension,Cardiology,2,146,92,108,29.5,225,Yes,Medicaid,3,6,0
+P021,65,Male,2024-01-24,2024-01-30,Heart Failure,Cardiology,4,150,94,122,30.7,252,Yes,Medicare,6,10,1
+P022,43,Female,2024-01-25,2024-01-27,UTI,Urology,0,116,74,89,22.0,178,No,Private,2,2,0
+P023,70,Male,2024-01-26,2024-02-02,COPD,Pulmonology,5,140,88,112,27.6,238,Yes,Medicare,7,11,1
+P024,51,Female,2024-01-27,2024-01-29,Appendicitis,Surgery,0,118,76,91,21.2,175,No,Private,2,3,0
+P025,77,Male,2024-01-28,2024-02-05,Stroke,Neurology,3,164,104,118,26.8,242,Yes,Medicare,8,12,1
+P026,48,Female,2024-01-29,2024-01-31,Diabetes Type 2,Endocrinology,1,130,82,185,30.4,240,No,Medicaid,2,5,0
+P027,62,Male,2024-01-30,2024-02-05,Heart Failure,Cardiology,3,148,92,128,28.9,248,Yes,Medicare,6,9,1
+P028,35,Female,2024-01-31,2024-02-01,Kidney Stones,Urology,0,114,72,87,20.1,170,No,Private,1,2,0
+P029,80,Male,2024-02-01,2024-02-10,COPD,Pulmonology,7,144,90,115,25.2,232,Yes,Medicare,9,14,1
+P030,54,Female,2024-02-02,2024-02-04,Pneumonia,Pulmonology,1,126,80,96,23.8,195,No,Medicaid,2,4,0
+P031,69,Male,2024-02-03,2024-02-09,Diabetes Type 2,Endocrinology,4,138,88,202,32.7,255,Yes,Medicare,6,8,1
+P032,44,Female,2024-02-04,2024-02-06,Hypertension,Cardiology,0,126,82,100,24.9,205,No,Private,2,4,0
+P033,75,Male,2024-02-05,2024-02-13,Stroke,Neurology,2,156,98,116,27.0,238,Yes,Medicare,8,11,1
+P034,57,Female,2024-02-06,2024-02-09,Gallstones,Surgery,1,124,78,95,25.6,192,No,Medicaid,3,4,0
+P035,66,Male,2024-02-07,2024-02-14,Heart Failure,Cardiology,5,154,96,124,31.5,258,Yes,Medicare,7,10,1
+P036,39,Female,2024-02-08,2024-02-09,Asthma,Pulmonology,0,110,68,84,19.2,160,No,Private,1,2,0
+P037,73,Male,2024-02-09,2024-02-17,Hip Fracture,Orthopedics,1,120,74,99,23.4,,No,Medicare,8,5,1
+P038,46,Female,2024-02-10,2024-02-12,UTI,Urology,0,118,74,90,22.5,182,No,Private,2,2,0
+P039,78,Male,2024-02-11,2024-02-19,COPD,Pulmonology,6,146,92,110,26.1,236,Yes,Medicare,8,13,1
+P040,53,Female,2024-02-12,2024-02-14,Diabetes Type 2,Endocrinology,2,132,84,190,31.0,244,No,Medicaid,2,5,0
+P007,63,Male,2024-01-10,2024-01-16,Heart Failure,Cardiology,4,152,96,125,29.8,255,Yes,Medicare,6,9,1
+P013,79,Male,2024-01-16,2024-01-25,Heart Failure,Cardiology,5,158,100,130,32.4,260,Yes,Medicare,9,13,1

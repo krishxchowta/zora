@@ -1,0 +1,37 @@
+{
+  "BNP": {
+    "aggregation_propensity": 0.51,
+    "hotspot_regions": ["BNP-loop-1"],
+    "surface_hotspots": ["Cys10-Lys18"],
+    "critical_residue_windows": ["8-18"],
+    "motifs": ["GCFGRK"]
+  },
+  "SERPINA1": {
+    "aggregation_propensity": 0.62,
+    "hotspot_regions": ["SERPINA1-sheet-A"],
+    "surface_hotspots": ["Val325-Glu342"],
+    "critical_residue_windows": ["320-342"],
+    "motifs": ["FSMQDQ"]
+  },
+  "PLAT": {
+    "aggregation_propensity": 0.48,
+    "hotspot_regions": ["PLAT-finger-domain"],
+    "surface_hotspots": ["Arg31-Cys43"],
+    "critical_residue_windows": ["30-45"],
+    "motifs": ["CNSGRA"]
+  },
+  "TP53": {
+    "aggregation_propensity": 0.66,
+    "hotspot_regions": ["TP53-DNA-binding-core"],
+    "surface_hotspots": ["Arg248-Arg273"],
+    "critical_residue_windows": ["245-274"],
+    "motifs": ["ILTIITL"]
+  },
+  "TTR": {
+    "aggregation_propensity": 0.83,
+    "hotspot_regions": ["TTR-beta-sheet-F", "TTR-thyroxine-channel"],
+    "surface_hotspots": ["Val121-Ile127", "Leu55-Thr75"],
+    "critical_residue_windows": ["54-78", "118-127"],
+    "motifs": ["VVFTAN", "TIAALL"]
+  }
+}
